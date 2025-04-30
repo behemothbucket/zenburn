@@ -195,7 +195,7 @@
             "name": "variable",
             "scope": "variable, variable.parameter, variable.other",
             "foreground": "#FED6AF",
-            "font_style": "bold"
+            "font_style": ""
         },
         {
             "name": "php function",
